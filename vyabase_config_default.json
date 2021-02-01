@@ -1,0 +1,29 @@
+{
+	"vyabase": {
+		"strict_mode": false,
+
+		"base_path": "./",
+
+		"print": {
+			"print_indent_string": "\t",
+			"minify": {
+				"_": false,
+				"delete_comment": true,
+				"delete_empty_line": true,
+				"smart_minify": true
+			},
+		},
+
+		"encode": {
+			"source": "UTF-8",
+			"template": "UTF-8",
+			"display": "UTF-8"
+		},
+
+		"debug": {
+			"_": false,
+			"show_benchmark": true,
+			"keep_vya_tag": false
+		}
+	}
+}

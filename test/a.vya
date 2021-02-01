@@ -1,0 +1,24 @@
+html
+	head
+		title{testdoc}
+		meta*5
+	body
+		nav
+			ul
+				li*5{Item $}
+		main
+			h1{testdoc}
+			h2{section}
+			.wrapper>span{$}
+			p>{Click }+a{me}[href="#"]+{ to continue}
+			div*3>p{$}
+			?vya{~div*2>span}
+			a[href="//google.com"]
+			//comment]
+			{3 ** 10 = }+?php{3 ** 10}
+
+			div{yoooo
+				multi
+				line
+				text!
+			}

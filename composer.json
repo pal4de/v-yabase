@@ -1,0 +1,11 @@
+{
+    "name": "urnr/vyabase",
+    "description": "V-yaBase - HTML Processor",
+    "authors": [
+        {
+            "name": "URNR",
+            "email": "3t3rna7681@gmail.com"
+        }
+    ],
+    "require": {}
+}

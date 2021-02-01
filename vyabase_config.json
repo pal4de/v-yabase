@@ -1,0 +1,11 @@
+{
+	"vyabase": {
+		"debug": {
+			"keep_vya_tag": true,
+			"give_random_name": false
+		}
+	},
+	"vyatag": {
+		"xhtml_mode": true
+	}
+}
